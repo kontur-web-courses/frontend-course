@@ -4,9 +4,9 @@
 
 1. [typescript](https://github.com/kontur-web-courses/typescript) (x2)
 2. [react](https://github.com/kontur-web-courses/react-ts) (x2)
-3. react-eco
-4. front-testing
-5. dev-tools
+3. react-eco <!-- блок про различные инструменты (webpack, babel, css-modules, postcss, jest, prettier, eslint, etc.) -->
+4. front-testing <!-- блок про тестирование (jest, unit, компоненты, e2e, скриншоты) @slogger -->
+5. dev-tools <!-- блок про использование devtools, возможно стоит объединить с animations -->
 6. [animations](https://docs.google.com/presentation/d/1XTe-RH5lcpmNbLL17n2VLtQJamcABEA-e5OqpmyY_Ig)
 7. [redux](https://github.com/kontur-web-courses/redux) (x2)
 8. [mobx](https://github.com/kontur-web-courses/mobx) (x2)
