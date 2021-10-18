@@ -3,7 +3,7 @@
 ## Интенсивы
 
 1. [typescript](https://github.com/kontur-web-courses/typescript) (x2)
-2. [react](https://github.com/kontur-web-courses/react-ts) (x2)
+2. [react](https://github.com/kontur-web-courses/react-ts) (x3)
 3. [react-eco](https://github.com/kontur-web-courses/react-eco)
 4. front-testing <!-- блок про тестирование (jest, unit, компоненты, e2e, скриншоты) @slogger -->
 5. [dev-tools](https://github.com/kontur-web-courses/dev-tools)
