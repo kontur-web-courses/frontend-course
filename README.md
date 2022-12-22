@@ -9,7 +9,7 @@
 5. [react-eco](https://github.com/kontur-web-courses/react-eco)
 6. [redux](https://github.com/kontur-web-courses/redux) (x2)
 7. [mobx](https://github.com/kontur-web-courses/mobx) (x2)
-8. front-testing <!-- блок про тестирование (jest, unit, компоненты, e2e, скриншоты) @slogger -->
+8. [front-testing](https://docs.google.com/presentation/d/1K8ibpr6igVwvv-_uDCH9TyAvbiQFWG5H5FuAiDzKpyw)
 
 ## Дополнительно
 
